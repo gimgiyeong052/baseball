@@ -1,3 +1,3 @@
 # vod_baseball
 
- https://aebonlee.github.io/vod_baseball/
+https://gimgiyeong052.github.io/baseball/
